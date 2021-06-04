@@ -1,0 +1,5 @@
+mysqldump -uroot -p example > exampledbdump.sql
+
+create database sample;
+
+mysql -u root -p sample < exampledbdump.sql
