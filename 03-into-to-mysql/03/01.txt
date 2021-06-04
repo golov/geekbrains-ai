@@ -1,0 +1,2 @@
+1. Переименовать profiles.photo_id в profiles.media_id
+2. profiles.country и profiles.cities вывести в отдельные таблицы countries, cities и связать их через profiles.coutnry_id и profiles.city_id
